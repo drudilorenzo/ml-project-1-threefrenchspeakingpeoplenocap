@@ -8,6 +8,7 @@ Group:
 - Olena Zavertiaieva - 364500
 
 > The `run.py` file contains the code for the best model we obtained.
+> The data should be inside the `./data` folder (if it does not exist create it).
 
 #### Requirements
 Check and install the requirements inside `requirements.txt`:
